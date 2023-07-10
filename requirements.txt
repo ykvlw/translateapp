@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+databases[postgresql]
+uvicorn
+selenium
+requests
+psycopg2-binary
+webdriver-manager
+webdriver_manager
+pytest
